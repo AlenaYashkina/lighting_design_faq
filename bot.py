@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer, util
 import torch
 
 # Настройки бота
-API_TOKEN = "8069807481:AAEfAozCCsK9HVMepJ3lOVWTkRxVKalLBXk"
+API_TOKEN = "YOUR_API_TOKEN"
 
 # Логирование
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
